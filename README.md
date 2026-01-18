@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Rai</h1>
-<h3 align="center">B.Tech CSE Student | Full Stack MERN Developer | Competitive Programmer</h3>
+<h3 align="center">B.Tech Pre Final Year CSE Student | Full Stack MERN Developer | Coding Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -17,8 +17,7 @@ Bachelor of Technology – Computer Science & Engineering
 ## 👨‍💻 About Me
 - 🚀 Full Stack Developer specializing in **MERN Stack**
 - 🧠 Strong foundation in **DSA, OS, DBMS, CN, OOPS**
-- 💡 Interested in **Scalable Web Systems & Cloud Deployment**
-- 🏆 Competitive Programmer with **Global Rank 591** in CodeChef
+- 💡 Interested in building **scalable full-stack web applications using the MERN stack**
 - 🎯 Targeting **Product-based & Core Tech Internships**
 
 ---
