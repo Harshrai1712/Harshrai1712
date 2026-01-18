@@ -10,7 +10,6 @@
 ## 🎓 Education
 **Indian Institute of Information Technology, Jabalpur**  
 Bachelor of Technology – Computer Science & Engineering  
-🗓 Aug 2023 – Aug 2027 | 📍 Jabalpur, India
 
 ---
 
