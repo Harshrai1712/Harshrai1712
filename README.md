@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech Pre Final Year CSE Student @IIIT Jabalpur | Full Stack MERN Developer | Coding Enthusiast</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Harshrai1712&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Harshrai1712&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
