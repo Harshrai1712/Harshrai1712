@@ -48,50 +48,5 @@ Bachelor of Technology – Computer Science & Engineering
   </a>
 </p>
 
-## 🚀 Featured Projects
-
-### 🔹 Harsh’s Portfolio  
-**React.js | JavaScript | Tailwind CSS**  
-- Built a modern, responsive personal portfolio to showcase projects & skills  
-- Designed reusable React components with clean UI/UX  
-- Deployed on **Vercel** for fast and reliable hosting  
-
----
-
-### 🔹 WanderStay  
-**MongoDB | Express.js | React.js | Node.js**  
-- Full-stack travel booking platform using MERN stack  
-- Implemented **JWT authentication & bcrypt security**  
-- Built RESTful APIs for users, bookings, and packages  
-- Responsive UI with React Router & Context API  
-- Deployed on **Render** for production use  
-
----
-
-### 🔹 Apna-VideoCall  
-**MongoDB | Express.js | React.js | Node.js**  
-- Real-time video conferencing platform using **WebRTC & Socket.IO**  
-- Features: video/audio calls, live chat, screen sharing  
-- Redux for efficient state management across sessions  
-- Scalable REST APIs for users & sessions  
-
----
-
-### 🔹 Rank-Sphere  
-**MySQL | Express.js | React.js | Node.js | Tailwind CSS**  
-- MERN-based competitive programming analytics platform  
-- Tracks user performance across CodeChef, Codeforces, LeetCode  
-- Interactive charts for ratings, problem stats & topic analysis  
-- Secure authentication and optimized API handling  
-
----
-
-## 🏆 Achievements
-- 🌍 **Global Rank 591** out of 11,000+ participants  
-  *CodeChef Contest – Starters 194 (July 2025)*  
-- ✅ Solved **200+ DSA problems** on CodeChef, Codeforces & LeetCode  
-- 📈 Strong problem-solving & analytical thinking skills  
-
----
 
 ⭐ *Always learning, building, and improving.*
